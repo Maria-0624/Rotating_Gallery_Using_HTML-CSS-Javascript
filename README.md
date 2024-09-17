@@ -4,12 +4,13 @@ Rotating_Gallery_Using_HTML-CSS-Javascript
 
 Rotating Image Gallery
 
-A simple rotating image gallery using HTML, CSS, and JavaScript. 
-When the "Next" or "Prev" button is clicked, the gallery rotates to show the next or previous image in a 3D carousel effect.
+This project is a rotating image gallery built with HTML, CSS, and JavaScript. 
+The gallery displays images in a 3D carousel effect. 
+Users can navigate through images using "Next" and "Prev" buttons, which rotate the gallery to show the next or previous image.
 
-Features
+Features:
+- 3D Rotating Gallery: Images are arranged in a circular layout and rotate in 3D space.
+- Navigation: Use "Next" and "Prev" buttons to navigate through images.
+- Clickable Images: Clicking on an image redirects to its location for a larger view or additional details.
 
-- Displays images in a 3D circular gallery layout.
-- Rotates to the next or previous image when the corresponding button is clicked.
-- Smooth animation when transitioning between images.
 
